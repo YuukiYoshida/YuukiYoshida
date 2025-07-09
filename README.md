@@ -50,12 +50,6 @@ Mainly building apps and systems with Kotlin, Jetpack Compose, and modern web te
 
 ---
 
-### 📊 GitHub Stats
-
-![Yuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuukiYoshida&show_icons=true&theme=tokyonight)
-
----
-
 ### 🔗 Links
 
 - 🏠 [Website](https://infreed.jp)  
